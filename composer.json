@@ -1,6 +1,7 @@
 {
     "name": "siteimprove/magento2",
     "description": "Bridges the gap between Magento and the Siteimprove Intelligence Platform",
+    "version": "0.1.1",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
